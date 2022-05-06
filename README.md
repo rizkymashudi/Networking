@@ -1,7 +1,7 @@
 # Networking
  Practice basic implementation of Networking swift
  
- ## What did i learn? 💡
+ ## What did i learn? 📖💡
  ### Implementation Basic example of: 
  - Reachability
  - URL Session
